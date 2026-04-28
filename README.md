@@ -15,7 +15,7 @@ A clean, modern, and fully responsive **Expense Tracker** web application that h
 
 ## 📸 Preview
 
-![Expense Tracker Preview](https://via.placeholder.com/800x450/2e8b57/ffffff?text=Expense+Tracker+Preview)
+<img width="493" height="356" alt="image" src="https://github.com/user-attachments/assets/3775613e-8351-4b27-983b-6278c87dc89b" />
 
 > **Live URL:** [https://expense-tracker2002.netlify.app/](https://expense-tracker2002.netlify.app/)
 
